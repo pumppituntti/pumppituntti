@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm second year student of software development in Tampere University of Applied Sciences (TAMK).\n
+I'm second year student of software development in Tampere University of Applied Sciences (TAMK).<br/>
 I'm currently learning ECMAScript and HTML/CSS.
 I have some experience in Java and LibGDX also. 
 You can find some of my projects from github.
