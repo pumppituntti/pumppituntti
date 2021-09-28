@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am second year student of software development in Tampere University of Applied Sciences (TAMK).
+
 <!--
 **pumppituntti/pumppituntti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
