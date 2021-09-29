@@ -3,7 +3,6 @@
 I'm second year student in software development at Tampere University of Applied Sciences (TAMK).<br/>
 I'm currently learning ECMAScript and HTML/CSS.<br/>
 I have some experience in Java and LibGDX also.<br/>
-You can find some of my projects on GitHub.<br/>
 
 <!--
 **pumppituntti/pumppituntti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
