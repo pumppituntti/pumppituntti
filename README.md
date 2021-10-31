@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 I'm second year student in software development at Tampere University of Applied Sciences (TAMK).<br/>
-I'm currently learning ECMAScript and HTML/CSS.<br/>
+I'm currently learning:<br/> 
+ECMAScript | React | HTML | CSS | MySQL (MariaDB) <br/>
 I have some experience in Java and LibGDX also.<br/>
 
 <!--
