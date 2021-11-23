@@ -2,8 +2,9 @@
 
 I'm second year student in software development at Tampere University of Applied Sciences (TAMK).<br/>
 I'm currently learning:<br/> 
-<span>ECMAScript</span> | Node.js | React | MySQL (MariaDB) | HTML | CSS  <br/>
-I have some experience in Java and LibGDX also.<br/>
+Node.js | React | MySQL (MariaDB) | HTML | CSS  <br/>
+I have some experience in:<br/>
+JavaScript (ES6) | Java<br/>
 
 <!--
 **pumppituntti/pumppituntti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
