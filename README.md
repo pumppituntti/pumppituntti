@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 I'm second year student in software development at Tampere University of Applied Sciences (TAMK).<br/>
+
 I'm currently learning:<br/> 
 Node.js | React | MySQL (MariaDB) | HTML | CSS  <br/>
+
 I have some experience in:<br/>
 JavaScript (ES6) | Java<br/>
 
