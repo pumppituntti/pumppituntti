@@ -2,7 +2,7 @@
 
 I'm second year student in software development at Tampere University of Applied Sciences (TAMK).<br/>
 I'm currently learning:<br/> 
-ECMAScript | Node.js | React | MySQL (MariaDB) | HTML | CSS  <br/>
+<button>ECMAScript</button> | Node.js | React | MySQL (MariaDB) | HTML | CSS  <br/>
 I have some experience in Java and LibGDX also.<br/>
 
 <!--
