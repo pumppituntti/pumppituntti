@@ -3,10 +3,10 @@
 I'm second year student in software development at Tampere University of Applied Sciences (TAMK).<br/>
 
 I'm currently learning:<br/> 
-Node.js | React | MySQL (MariaDB)   <br/>
+Kotlin | Android <br/>
 
 I have some experience in:<br/>
-JavaScript (ES6) | Java | HTML | CSS<br/>
+JavaScript | Node.js | React | MySQL | Java | HTML | CSS<br/>
 
 <!--
 **pumppituntti/pumppituntti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
