@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-I'm third year student in software development at Tampere University of Applied Sciences (TAMK).<br/>
-
-I have some experience in:<br/>
-JavaScript | Node.js | React | Python | MySQL | Kotlin | Java | HTML | CSS<br/>
-
 <!--
 **pumppituntti/pumppituntti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
